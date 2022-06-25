@@ -7,7 +7,6 @@
 </div>
 
 
-[<img src="https://img.shields.io/github/followers?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogi-rib/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/rogi-rib/)
 
 ![GitHub followers](https://img.shields.io/github/followers/igor-rib-souza?label=Seguir&style=social)
 
@@ -26,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-rib-souza&count_private=true&theme=synthwave&include_all_commits=true&show_icons) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rib-souza&layout=compact&count_private=true&show_icons=true&theme=synthwave) -->
