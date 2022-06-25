@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=igor-rib-souza&show_icons=true&theme=dracula" width="400">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=igor-rib-souza&show_icons=true&theme=dracula" width="400">
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?">
+</div>
 <!--
 **igor-rib-souza/igor-rib-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
