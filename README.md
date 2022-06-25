@@ -6,7 +6,11 @@
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rib-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
+
+[<img src="https://img.shields.io/github/followers?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogi-rib/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/rogi-rib/)
+
 ![GitHub followers](https://img.shields.io/github/followers/igor-rib-souza?label=Seguir&style=social)
+
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogi-rib/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/rogi-rib/) 
 <!--
 **igor-rib-souza/igor-rib-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
