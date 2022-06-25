@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=igor-rib-souza&show_icons=true&theme=dracula" width="400em" height="170em">
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=igor-rib-souza&show_icons=true&theme=dracula">
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rib-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 <!--
