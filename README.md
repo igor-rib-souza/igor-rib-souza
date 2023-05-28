@@ -1,36 +1,50 @@
-### Hi there 👋
+<h2 align="center">
+  Hi! I'm Igor! Be welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+</br>
+</br>
 
-#### 📊 Github Stats
+## 👨‍💼 Who am I?
+
+- ##### Computer Science Student at [UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/)
+- ##### Developer and President at [Codex Jr](https://codexjr.com.br/)
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming languages
+
+<p>
+    <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=javascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=typescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=python"><img alt="Python" src="https://img.shields.io/badge/Python-007396.svg?logo=python&logoColor=white"></a>
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-fc9003.svg?logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+## 👤 Contacts
+
+<p>
+    <a href="https://www.linkedin.com/in/rogi-rib/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white"></a>
+</p>
+
+## 📊 Github stats
 
 <div>
   <a href="https://github.com/igor-rib-souza">
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=igor-rib-souza&show_icons=true&theme=dracula&count_private=true&include_all_commits=false">
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rib-souza&hide=sql&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
-
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <br><br>
   
-   
-      
-</div>
-
-  ![GitHub followers](https://img.shields.io/github/followers/igor-rib-souza?label=Seguir&style=social)
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogi-rib/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/rogi-rib/) 
   <p align="left"> 
   Visits count on my profile: <br/>
   <img src="https://profile-counter.glitch.me/igor-rib-souza/count.svg">
 </p>
-
-  
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-rib-souza&count_private=true&theme=synthwave&include_all_commits=true&show_icons) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rib-souza&layout=compact&count_private=true&show_icons=true&theme=synthwave) -->
