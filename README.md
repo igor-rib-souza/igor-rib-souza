@@ -26,6 +26,10 @@
 
   ![GitHub followers](https://img.shields.io/github/followers/igor-rib-souza?label=Seguir&style=social)
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogi-rib/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/rogi-rib/) 
+  <p align="left"> 
+  Visits count on my profile: <br/>
+  <img src="https://profile-counter.glitch.me/igor-rib-souza/count.svg">
+</p>
 
   
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-rib-souza&count_private=true&theme=synthwave&include_all_commits=true&show_icons) -->
