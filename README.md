@@ -41,7 +41,7 @@
 <div>
   <a href="https://github.com/igor-rib-souza">
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=igor-rib-souza&show_icons=true&theme=dracula&count_private=true&include_all_commits=false">
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rib-souza&hide=sql&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rib-souza&hide=sql&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
   <p align="left"> 
