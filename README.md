@@ -4,6 +4,7 @@
 </h2>
 </br>
 </br>
+[![An image of @igorribsouza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/igorribsouza)](https://holopin.io/@igorribsouza)
 
 ## 👨‍💼 Who am I?
 
