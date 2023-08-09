@@ -1,10 +1,11 @@
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
 <h2 align="center">
   Hi! I'm Igor! Be welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 </br>
 </br>
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+
 ## 👨‍💼 Who am I?
 
 - ##### Computer Science Student at [UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/)
