@@ -1,4 +1,4 @@
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![An image of @igorribsouza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/igorribsouza)](https://holopin.io/@igorribsouza)
 <h2 align="center">
   Hi! I'm Igor! Be welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
