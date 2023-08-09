@@ -4,8 +4,8 @@
 </h2>
 </br>
 </br>
-[![An image of @igorribsouza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/igorribsouza)](https://holopin.io/@igorribsouza)
-
+[![](https://holopin.me/igorribsouza)](https://holopin.io/@igorribsouza)
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
 ## 👨‍💼 Who am I?
 
 - ##### Computer Science Student at [UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/)
