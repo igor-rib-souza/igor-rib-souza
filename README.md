@@ -9,7 +9,7 @@
 ## 👨‍💼 Who am I?
 
 - ##### Computer Science Student at [UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/)
-- ##### Developer and President at [Codex Jr](https://codexjr.com.br/)
+- ##### Former Developer and President at [Codex Jr](https://codexjr.com.br/)
 
 ## 🛠️ My favorite tools
 
