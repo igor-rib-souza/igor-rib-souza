@@ -19,10 +19,11 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=javascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=typescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=javascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=python"><img alt="Python" src="https://img.shields.io/badge/Python-007396.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=java"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=java"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=go"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"></a>
 </p>
 
 ### 👨‍💻 Frameworks
@@ -31,7 +32,7 @@
     <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-0088CC?logo=react&logoColor=white"></a>
-
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
