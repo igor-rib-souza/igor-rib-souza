@@ -25,6 +25,15 @@
   <a href="https://github.com/igor-rib-souza?tab=repositories&q=&type=&language=java"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 </p>
 
+### 👨‍💻 Frameworks
+<p>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-0088CC?logo=react&logoColor=white"></a>
+
+</p>
+
 ### 💻 Software and tools
 
 <p>
