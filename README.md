@@ -1,3 +1,4 @@
+<!--
 [![An image of @igorribsouza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/igorribsouza)](https://holopin.io/@igorribsouza)
 <h2 align="center">
   Hi! I'm Igor! Be welcome to my profile
@@ -5,6 +6,7 @@
 </h2>
 </br>
 </br>
+-->
 
 ## 👨‍💼 Who am I?
 
