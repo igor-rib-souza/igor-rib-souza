@@ -37,7 +37,7 @@
 
 <p>
     <a href="https://www.linkedin.com/in/rogi-rib/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white"></a>
-    <a href="mailto:igorrs.rib@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-white.svg?logo=gmail&logoColor=red"/></a>
+    <a href="mailto:igorrs.rib@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white.svg?logo=gmail&logoColor=red"/></a>
 </p>
 
 ## 📊 Github stats
