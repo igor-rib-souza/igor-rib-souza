@@ -12,8 +12,7 @@
 
 <!-- - ##### Computer Science Student at [UFCG (Universidade Federal de Campina Grande)](https://portal.ufcg.edu.br/)
 -->
-- ##### Fullstack Developer at [Cyan Agroanalytics](https://www.cyan-agro.com.br/)
-- ##### Former Developer and President at [Codex Jr](https://codexjr.com.br/)
+- ##### Mid Level Fullstack Developer at [Cyan Agroanalytics](https://www.cyan-agro.com.br/)
 
 ## 🛠️ My experience
 
